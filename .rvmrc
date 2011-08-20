@@ -5,6 +5,7 @@
 
 # First we specify our desired <ruby>[@<gemset>], the @gemset name is optional.
 environment_id="jruby-1.6.3@teste_rails3"
+source .myapprc
 
 #
 # Uncomment following line if you want options to be set only for given project.
